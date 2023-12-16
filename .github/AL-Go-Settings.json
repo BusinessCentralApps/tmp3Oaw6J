@@ -3,5 +3,6 @@
   "type": "PTE",
   "useCompilerFolder": false,
   "MicrosoftTelemetryConnectionString": "",
-  "doNotPublishApps": false
+  "doNotPublishApps": false,
+  "templateSha": "d5e106b17c833cc1c3f44102c5415b717439f29e"
 }
